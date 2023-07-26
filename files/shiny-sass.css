@@ -26,6 +26,7 @@ pre.shiny-text-output {
 }
 
 #shiny-disconnected-overlay {
+  display: none;
   position: fixed;
   top: 0;
   bottom: 0;
